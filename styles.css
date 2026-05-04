@@ -3,6 +3,7 @@ html, body {
   padding: 0;
   height: 100%;
   background: #000;
+  margin: 0; height: 100%; overflow: hidden
 }
 
 body {
@@ -16,6 +17,7 @@ body {
   text-shadow: 1px 1px 6px #ff2c2c;
   font-family: "Terminus";
   font-size: 20px;
+  margin: 0; height: 100%; overflow: hidden
 }
 
 @font-face {
