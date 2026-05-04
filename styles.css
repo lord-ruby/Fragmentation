@@ -1,0 +1,45 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #000;
+}
+
+body {
+  min-height: 640px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+  color: #ff2c2c;
+  text-shadow: 1px 1px 6px #ff2c2c;
+  font-family: "Terminus";
+  font-size: 20px;
+}
+
+@font-face {
+    font-family: "Terminus";
+    src: url("Terminus.ttf");
+}
+
+div{
+    height: 37vw;
+    width: 50vw;
+    background-blend-mode: multiply;
+    background: #340d0d;
+    background-image: url("grain.avif");
+    -webkit-filter: url(#kill);
+    filter: url(#kill);
+}
+#text {
+    padding: 8px;
+    filter: url(#bloom) url(#fisheye);
+}
+
+a {
+    color: #ff2c2c;
+}
+a:visited {
+    color: #ff2c2c;
+}
