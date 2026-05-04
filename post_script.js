@@ -1,6 +1,6 @@
 function load_post(name) {
     var client = new XMLHttpRequest();
-    client.open('GET', '/posts/'+name);
+    client.open('GET', 'https://lord-ruby.github.io/Fragmentation/posts/'+name);
     client.onreadystatechange = function() {
         var lines = client.responseText.split(/\r?\n|\r|\n/g);
         
