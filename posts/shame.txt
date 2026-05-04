@@ -14,4 +14,4 @@ SERAPHS WHICH SCREECH AS YOU CALL THEIR NAMES.
 
 RIVERS FLOW FORTH WHEN PLUCKED AS YOU PREACH IN VEIN.
 
-<a href = "/post.html?post=pride.txt">ASK YOURSELF IF YOU ARE PROUD OF WHAT HAS TRANSPIRED.</a>
+<a href = "https://lord-ruby.github.io/Fragmentation/post?post=pride.txt">ASK YOURSELF IF YOU ARE PROUD OF WHAT HAS TRANSPIRED.</a>
